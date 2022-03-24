@@ -2,7 +2,7 @@ print "Login Script"
 
 import getpass
 
-CorrectUsername = "Test"
+CorrectUsername = "Test1"
 CorrectPassword = "TestPW" 
 
 loop = 'true'
